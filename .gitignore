@@ -1,0 +1,10 @@
+node_modules
+
+
+.tmp
+.publish/
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
